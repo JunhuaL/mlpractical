@@ -138,6 +138,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+=======
    "execution_count": 1,
    "metadata": {},
    "outputs": [
@@ -167,6 +172,7 @@
      "output_type": "execute_result"
     }
    ],
+>>>>>>> upstream/mlp2022-23/lab2
    "source": [
     "from __future__ import print_function\n",
     "import sys\n",
